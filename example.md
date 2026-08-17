@@ -1,1 +1,1 @@
-This is some random content
+This is just some random content!
