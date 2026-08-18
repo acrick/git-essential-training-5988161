@@ -21,7 +21,7 @@
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
   "editor.allowVariableFonts": false,
-  // "files.exclude": {
-  //   "**/.git": false
-  // }
+  "files.exclude": {
+    "**/.git": false
+  }
 }
