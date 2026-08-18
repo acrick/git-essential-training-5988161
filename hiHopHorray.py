@@ -1,0 +1,6 @@
+print("Hip hop hooray")
+print("Ho, hey, ho")
+print("Hey, ho, hey, ho")
+print("Hip hop hooray")
+print("Ho, hey, ho")
+print("Hey, ho, hey, ho")
