@@ -1,0 +1,1 @@
+Please do not eat int his area.  Covered drinks are weclome.
